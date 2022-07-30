@@ -3,3 +3,4 @@ config.ini
 RDSConfiguration.md
 venv/
 __pycache__/
+*.DS_Store
