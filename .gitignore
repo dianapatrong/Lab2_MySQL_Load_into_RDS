@@ -1,1 +1,5 @@
 .idea/
+config.ini
+RDSConfiguration.md
+venv/
+__pycache__/
