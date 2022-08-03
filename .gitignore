@@ -4,3 +4,4 @@ RDSConfiguration.md
 venv/
 __pycache__/
 *.DS_Store
+config.py
